@@ -4,7 +4,6 @@ hello mamaa
 hi ra nuvu ha ra
 mamaa
 em doing ra
-
-     Name :Mahesh Kumar
-  Roll:No :237y1a04f1
+Name :Mahesh Kumar
+Roll:No :237y1a04f1
 gender: male 
